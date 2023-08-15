@@ -1,6 +1,4 @@
-Here is the Markdown code with the folder links:
 
-```markdown
 # Mastering the Art of Algorithms
 
 Algorithms are at the heart of computer science and power many aspects of our modern digital world. From search engines like Google to social media feeds and transportation apps, algorithms help software efficiently process data and solve complex problems. 
@@ -18,4 +16,3 @@ After that, you'll be ready for [Intermediate Algorithms](/intermediate) like me
 By the end, you'll have a solid grasp of algorithms ranging from beginner to advanced. You'll be able to leverage this knowledge to build more efficient systems, ace coding interviews, and appreciate just how vital algorithms are to computer science and programming. 
 
 So let's start from the beginning and master the art of algorithms together!
-```
